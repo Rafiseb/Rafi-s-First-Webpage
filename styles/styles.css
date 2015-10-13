@@ -1,0 +1,22 @@
+body{
+    background-color: green;
+    font-size: px;
+}
+
+h1{
+    color: blue;
+}
+h2{
+  border: 15px groove red;
+  text-align: center;
+}
+ 
+body{
+  background-image:url("http://www.footballnewsfeeds.com/i/bg_grass.jpg");
+background-size: 6500px;
+} 
+img#soccer1{
+  position: relative;
+  left: 10000px;
+}
+
